@@ -1,0 +1,16 @@
+{
+  "client_id": "https://plurai-ai.github.io/oauth-clients/plurai-sdk-staging.json",
+  "client_name": "Plurai SDK",
+  "client_uri": "https://www.plurai.ai",
+  "logo_uri": "https://cdn.prod.website-files.com/691ef0a011466cf6dc334d6a/69262dfa62d01c8af1a8af1e_avatar-black_256.png",
+  "redirect_uris": [
+    "http://127.0.0.1/callback"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
